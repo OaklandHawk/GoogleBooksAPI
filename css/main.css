@@ -2,15 +2,20 @@ html {
   overflow-x: hidden;
 }
 
+h1 {
+    font-family: 'Metamorphous', cursive;
+    font-size: 100px;
+}
+
 body {
   background-image: url('http://strynaghschurch.ie/wp-content/uploads/2015/05/Life-is-like-a-book....jpg');
 }
 
 h2{
   font-family: 'Raleway', sans-serif;
-  font-size: 16px;
-  font-weight: 700;
-  color: black;
+  font-size: 25px;
+  font-weight: 1000;
+  color: #FFFF31;
 }
 
 /*user input*/
@@ -26,7 +31,7 @@ h2{
 #results{
   font-family: sans-serif;
   text-align: center;
-  color: blue;
+  color: #FFFF31;
   font-weight: 700;
 }
 
